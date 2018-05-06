@@ -1,5 +1,13 @@
 {
     {
+        name = "a088-mtn-archway",
+        label = "Mountain Archway",
+        x = 47,
+        y = 1,
+        w = 1,
+        h = 2
+    },
+    {
         name = "a094-ocean",
         label = "Ocean",
         x = 31,
