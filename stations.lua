@@ -70,5 +70,21 @@
         y = 17,
         w = 2,
         h = 1
+    },
+    {
+        name = "a21-meander-bridge",
+        label = "Meander Bridge",
+        x = 11,
+        y = 18,
+        w = 1,
+        h = 2
+    },
+    {
+        name = "a23-forest",
+        label = "Forest",
+        x = 17,
+        y = 18,
+        w = 1,
+        h = 2
     }
 }
