@@ -48,6 +48,30 @@
         h = 1
     },
     {
+        name = "a1331-slime-island",
+        label = "Slime Island",
+        x = 1,
+        y = 12,
+        w = 1,
+        h = 2
+    },
+    {
+        name = "a1335-east-hills",
+        label = "East Hills",
+        x = 9,
+        y = 12,
+        w = 1,
+        h = 2
+    },
+    {
+        name = "a1338-far-quarry",
+        label = "Far Quarry",
+        x = 17,
+        y = 12,
+        w = 1,
+        h = 2
+    },
+    {
         name = "a134-quarry",
         label = "Quarry",
         x = 27,
