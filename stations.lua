@@ -80,6 +80,22 @@
         h = 2
     },
     {
+        name = "a1362-acacia-pass",
+        label = "Acacia Pass",
+        x = 46,
+        y = 12,
+        w = 1,
+        h = 2
+    },
+    {
+        name = "a1363-glass-beach",
+        label = "Glass Beach",
+        x = 50,
+        y = 13,
+        w = 1,
+        h = 2
+    },
+    {
         name = "a14-acacia-jct",
         label = "Acacia Junction",
         x = 32,
