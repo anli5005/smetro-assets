@@ -113,7 +113,7 @@
     },
     {
         name = "a096-sand-lake",
-        label = "Sand Lake"
+        label = "Sand Lake",
         x = 18,
         y = 29,
         w = 2,
