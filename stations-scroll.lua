@@ -40,7 +40,7 @@
         h = 1
     },
     {
-        name = "1363-glass-beach",
+        name = "a1363-glass-beach",
         label = "Glass Beach",
         x = 9,
         y = 18,
