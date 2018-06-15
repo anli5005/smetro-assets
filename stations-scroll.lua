@@ -134,5 +134,77 @@
         y = 32,
         w = 1,
         h = 2
+    },
+    {
+        name = "a073-cth2",
+        label = "Crystal Tower 2.0",
+        x = 28,
+        y = 32,
+        w = 1,
+        h = 2
+    },
+    {
+        name = "a067-swampland-c",
+        label = "SwampLands Wharf",
+        x = 17,
+        y = 37,
+        w = 2,
+        h = 1
+    },
+    {
+        name = "a063-swampland-s",
+        label = "Swampland South",
+        x = 17,
+        y = 39,
+        w = 2,
+        h = 1
+    },
+    {
+        name = "a060-chocolate-jct",
+        label = "Chocolate Junction",
+        x = 17,
+        y = 41,
+        w = 2,
+        h = 1
+    },
+    {
+        name = "a051-tunnel-mountains",
+        label = "Tunnel Mountains",
+        x = 18,
+        y = 44,
+        w = 2,
+        h = 1
+    },
+    {
+        name = "a048-lush-forest-n",
+        label = "Lush Forest North",
+        x = 18,
+        y = 46,
+        w = 2,
+        h = 1
+    },
+    {
+        name = "a046-lush-forest-c",
+        label = "Lush Forest Central",
+        x = 18,
+        y = 48,
+        w = 2,
+        h = 1
+    },
+    {
+        name = "a041-lush-forest-s",
+        label = "Lush Forest South",
+        x = 18,
+        y = 50,
+        w = 2,
+        h = 1
+    },
+    {
+        name = "a036-stronghold",
+        label = "Stronghold",
+        x = 34,
+        y = 51,
+        w = 1,
+        h = 2
     }
 }
